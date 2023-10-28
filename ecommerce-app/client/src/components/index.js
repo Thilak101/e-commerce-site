@@ -1,0 +1,6 @@
+export { default as Header } from "./header/Header"
+export { default as Product } from "./product/Product"
+export { default as CheckoutProduct } from "./checkoutProduct/CheckoutProduct"
+export {default as Subtotal} from "./subtotal/Subtotal"
+export {default as PaymentForm} from "./paymentForm/PaymentForm.jsx"
+export {default as Order} from "./order/Order"
